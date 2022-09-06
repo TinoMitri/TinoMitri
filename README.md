@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinoMitri
 - 👀 I’m interested in: People Management, Time Management, Project Management, Public Speaking, Communication, Problem-Solving, Decision-Making... 
-- 🌱 I’m currently learning: GitHub, Python, Cloud Management, Azure AZ-900, Fundementals of Kubernetes / Docker, PaaS and IaaS
+- 🌱 I’m currently learning: GitHub, Python, Cloud Management, Azure AZ-900, Fundementals of Kubernetes / Docker, Cloud Computing (SaaS, PaaS, IaaS)
 - 📫 How to reach me ... tino.mitri@aa.com / office: 480.693.6539
 
 <!---
